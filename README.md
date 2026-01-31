@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JuanDiegoZapataDiaz
-- 👀 I’m interested in Econometrics and Machine Learning
-- 🌱 I’m currently learning Manifolds
+- 👀 I’m interested in Econometrics and Optimization
 - 📫 How to reach me: send a email to juandiego.zapata@bcrp.gob.pe
 
 <!---
