@@ -42,7 +42,7 @@ An end-to-end binary classification pipeline for credit approval prediction. It 
 
 ## Research
 
-I have contributed to research on inflation dynamics and monetary-policy transmission, with publications in *Economic Modelling*, *Journal of Policy Modeling*, and *International Economics*.
+I have contributed to research on inflation dynamics and monetary-policy transmission, with publications in [*Economic Modelling*](https://doi.org/10.1016/j.econmod.2026.107533), [*Journal of Policy Modeling*](https://doi.org/10.1016/j.jpolmod.2026.107045), and [*International Economics*](https://doi.org/10.1016/j.inteco.2026.100733).
 
 ## Languages
 
