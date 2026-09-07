@@ -10,14 +10,6 @@ My work combines Python, statistical modeling, econometrics, operations research
 - LinkedIn: [linkedin.com/in/juandiegozapatadiaz](https://linkedin.com/in/juandiegozapatadiaz)
 - GitHub: [github.com/JuanDiegoZapataDiaz](https://github.com/JuanDiegoZapataDiaz)
 
-## Areas of interest
-
-- Data science and machine learning
-- Statistical modeling and econometrics
-- Time-series forecasting and inflation analytics
-- Operations research and network optimization
-- High-frequency data and data engineering
-
 ## Technical skills
 
 | Area | Tools and methods |
@@ -26,18 +18,18 @@ My work combines Python, statistical modeling, econometrics, operations research
 | Data and engineering | Pandas, NumPy, Dask, Parquet, Multiprocessing |
 | Machine learning | Scikit-learn, PyTorch, Statsmodels, classification, regression, calibration |
 | Statistics and econometrics | Statistical inference, GLMs, time-series forecasting, econometrics |
-| Optimization | Gurobi, linear programming, convex optimization, network optimization, dynamic programming |
+| Optimization | Linear programming, convex optimization, network optimization, dynamic programming |
 | Development tools | Git, GitHub, pytest, Jupyter, VS Code, SQL Server Management Studio |
 
 ## Selected projects
 
-### Network Simplex Optimization Library
+### [Optimal AI Transformation Portfolio](https://github.com/JuanDiegoZapataDiaz/Optimal_AI_Transformation_Portfolio)
+A decision-science case study for prioritizing AI investments under interdependencies, uncertainty, and budget constraints. The project combines minimum-cut network models and mixed-integer linear programming (MILP) to identify an auditable portfolio of initiatives while accounting for shared capabilities, delivery risk, and funding limits.
 
-A modular Python implementation of the Network Simplex algorithm for minimum-cost flow problems. The project includes feasibility initialization, tree-basis management, node potentials, reduced costs, fundamental cycles, pivot operations, sensitivity analysis, and automated unit tests.
 
-### Max-Flow / Min-Cut Optimization
+### [Network Simplex Optimization Library](https://github.com/JuanDiegoZapataDiaz/Network_Simplex)
 
-Python implementations of the Ford--Fulkerson and Edmonds--Karp algorithms. The framework formulates project-selection and open-pit mining problems as maximum-closure and minimum-cut problems.
+A modular Python implementation of the Network Simplex algorithm for minimum-cost flow problems. It includes feasibility initialization, tree-basis management, node potentials, reduced costs, fundamental cycles, pivot operations, sensitivity analysis, and automated unit tests. The library is demonstrated through a napkin-scheduling application.
 
 ### Credit Approval Prediction
 
